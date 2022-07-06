@@ -1,0 +1,18 @@
+﻿@model List<BD.ModeloEF.ObraDeArte>
+
+<!-- Esta página o vista tendrá los controles Nombre obra de arte, año de creación,
+con un botón grabar nueva obra de arte -->
+
+<table>
+    <tr>
+        <th>Nombre</th>
+        <th>Año creación:</th>
+    </tr>
+    @foreach (var obra in @ViewBag.ObraDeArte)
+    {
+        <tr>
+            <td>@obra.Nombre</td>
+            <td>@obra.AnioCreacion</td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,36 @@
+﻿@model BD.ModeloEF.ObraDeArte;
+
+<!-- Esta página o vista tendrá los controles Nombre obra de arte, año de creación,
+con un botón grabar nueva obra de arte -->
+
+<table>
+    <tr>
+        <th>Nombre</th>
+        <th>Año creación</th>
+        <th>Eliminar</th>
+    </tr>
+    @foreach (var obra in @ViewBag.ObraDeArte)
+    {
+        <tr>
+            <td>@obra.Nombre</td>
+            <td>@obra.AnioCreacion</td>
+            <td><a href="/ObrasDeArte/Eliminar/@obra.Id">@obra.Id</a></td>
+        </tr>
+    }
+</table>
+
+
+<form action="/ObrasDeArte/Agregar" method="post">
+    <div>
+        Nombre:
+        <input type="text" name="Nombre" />
+    </div>
+    <div>
+        Año creación:
+        <input type="number" name="AnioCreacion" />
+    </div>
+
+    <div>
+        <input type="submit" value="Agregar" />
+    </div>
+</form>

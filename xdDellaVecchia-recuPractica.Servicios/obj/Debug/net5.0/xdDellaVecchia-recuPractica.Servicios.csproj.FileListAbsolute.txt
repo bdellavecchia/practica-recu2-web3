@@ -1,0 +1,15 @@
+C:\Users\Bianca\source\repos\practicaParcial2\xdDellaVecchia-recuPractica.Servicios\bin\Debug\net5.0\xdDellaVecchia-recuPractica.Servicios.deps.json
+C:\Users\Bianca\source\repos\practicaParcial2\xdDellaVecchia-recuPractica.Servicios\bin\Debug\net5.0\xdDellaVecchia-recuPractica.Servicios.dll
+C:\Users\Bianca\source\repos\practicaParcial2\xdDellaVecchia-recuPractica.Servicios\bin\Debug\net5.0\xdDellaVecchia-recuPractica.Servicios.pdb
+C:\Users\Bianca\source\repos\practicaParcial2\xdDellaVecchia-recuPractica.Servicios\bin\Debug\net5.0\BD.dll
+C:\Users\Bianca\source\repos\practicaParcial2\xdDellaVecchia-recuPractica.Servicios\bin\Debug\net5.0\BD.pdb
+C:\Users\Bianca\source\repos\practicaParcial2\xdDellaVecchia-recuPractica.Servicios\obj\Debug\net5.0\xdDellaVecchia-recuPractica.Servicios.csproj.AssemblyReference.cache
+C:\Users\Bianca\source\repos\practicaParcial2\xdDellaVecchia-recuPractica.Servicios\obj\Debug\net5.0\xdDellaVecchia-recuPractica.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bianca\source\repos\practicaParcial2\xdDellaVecchia-recuPractica.Servicios\obj\Debug\net5.0\xdDellaVecchia-recuPractica.Servicios.AssemblyInfoInputs.cache
+C:\Users\Bianca\source\repos\practicaParcial2\xdDellaVecchia-recuPractica.Servicios\obj\Debug\net5.0\xdDellaVecchia-recuPractica.Servicios.AssemblyInfo.cs
+C:\Users\Bianca\source\repos\practicaParcial2\xdDellaVecchia-recuPractica.Servicios\obj\Debug\net5.0\xdDellaVecchia-recuPractica.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Bianca\source\repos\practicaParcial2\xdDellaVecchia-recuPractica.Servicios\obj\Debug\net5.0\xdDellaVecchia-recuPractica.Servicios.csproj.CopyComplete
+C:\Users\Bianca\source\repos\practicaParcial2\xdDellaVecchia-recuPractica.Servicios\obj\Debug\net5.0\xdDellaVecchia-recuPractica.Servicios.dll
+C:\Users\Bianca\source\repos\practicaParcial2\xdDellaVecchia-recuPractica.Servicios\obj\Debug\net5.0\refint\xdDellaVecchia-recuPractica.Servicios.dll
+C:\Users\Bianca\source\repos\practicaParcial2\xdDellaVecchia-recuPractica.Servicios\obj\Debug\net5.0\xdDellaVecchia-recuPractica.Servicios.pdb
+C:\Users\Bianca\source\repos\practicaParcial2\xdDellaVecchia-recuPractica.Servicios\obj\Debug\net5.0\ref\xdDellaVecchia-recuPractica.Servicios.dll
